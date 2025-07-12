@@ -1,0 +1,5 @@
+function findZero(arr){
+
+}
+
+findZero([0, 1, 2, 0, 5, 0, 6])
